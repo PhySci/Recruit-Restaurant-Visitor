@@ -1,0 +1,4 @@
+.ipynb_checkpoints
+/data/zip/hpg_reserve.csv.zip
+/data/hpg_reserve.csv
+/data/*.csv
